@@ -1,5 +1,6 @@
 import './App.css'
 import Conta from './criar-conta'
+import Destaques from './destaques'
 function App() {
 
   return (
@@ -12,7 +13,9 @@ function App() {
         <a>Ifood Card</a> 
         <Conta/> 
       </div>
-    
+      <div>
+        <Destaques/>
+      </div>
     </div>
     
     
