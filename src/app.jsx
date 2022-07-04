@@ -3,7 +3,13 @@ import './App.css'
 function App() {
 
   return (
-    <a>prova dia 4</a>
+    <div className='painel'>
+      <a><img src='../public/logo.svg' alt='logo'/></a>
+      <a>Entregador</a>
+      <a>Restaurante e Mercado</a>
+      <a>Carreiras</a>
+      <a>Ifood Card</a>
+    </div>
   )
 }
 
