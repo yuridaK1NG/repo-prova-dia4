@@ -1,0 +1,17 @@
+.criarcss{
+    border: none;
+    color:red;
+    background-color: white;
+    padding-right: 30px;
+}
+.entrarcss{
+    border: none;
+    color:white;
+    background-color: red;
+}
+.criarconta{
+    font-family: Open Sans;
+    font-size: 20px;
+    padding-left: 250px;
+    padding-right: 300px;
+}
